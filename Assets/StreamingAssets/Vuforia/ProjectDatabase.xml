@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="himalaya" size="0.500000 0.375000" />
+    <ImageTarget name="rocks" size="0.500000 0.333333" />
+    <ImageTarget name="tree" size="0.500000 0.281553" />
+    <ImageTarget name="salah" size="0.500000 0.281385" />
+    <ImageTarget name="fortnite" size="0.500000 0.281341" />
+    <ImageTarget name="football" size="0.500000 0.281250" />
+    <ImageTarget name="flower" size="0.500000 0.281250" />
+  </Tracking>
+</QCARConfig>
