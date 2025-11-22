@@ -15,7 +15,7 @@ The core concept of the game revolves around players using their device's camera
 
 ## Contents
 
-- **Google Drive Link**: The full Unity game, including all assets and scripts, can be downloaded from this repo.
+- The full Unity game, including all assets and scripts, can be downloaded from this repo.
 - **Image Targets**: A folder containing all image targets used in the game.
 
 ## Installation
